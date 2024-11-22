@@ -17,7 +17,7 @@ Este repositorio contiene la solución al Trabajo de Aplicación No. 3, en el cu
 ├── Modelo 1.ipynb     # Implementación y evaluación de Regresión Lasso
 ├── Modelo 2.ipynb     # Implementación y evaluación de Random Forest
 ├── comparación.ipynb          # Comparación de los dos modelos
-├── dataset.csv          # Base de datos utilizada
+├── AirQualityUCI.csv          # Base de datos utilizada
 └── informe.pdf                # Resumen detallado del análisis y conclusiones
 ```
 
