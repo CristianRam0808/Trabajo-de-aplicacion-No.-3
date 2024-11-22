@@ -23,15 +23,15 @@ Este repositorio contiene la solución al Trabajo de Aplicación No. 3, en el cu
 
 ## Resultados principales
 - **Regresión Lasso**:
-  - MAE: _[Valor calculado]_
-  - RMSE: _[Valor calculado]_
-  - R²: _[Valor calculado]_
+  - MAE: 105.32341451589267
+  - RMSE:136.13468386113558
+  - R²: 0.9092291126803586
   - Observación: Modelo balanceado, útil para identificar las características más relevantes.
 
 - **Random Forest**:
-  - MAE: _[Valor calculado]_
-  - RMSE: _[Valor calculado]_
-  - R²: _[Valor calculado]_
+  - MAE: 74.94750632872066
+  - RMSE: 103.50506855177527
+  - R²: 0.9475274414002173
   - Observación: Modelo flexible, captura relaciones no lineales, pero podría requerir más recursos computacionales.
 
 ## Recomendación
@@ -42,4 +42,6 @@ Basándonos en las métricas y análisis, recomendamos el modelo con mejor desem
 - Bibliotecas: `pandas`, `numpy`, `scikit-learn`, `matplotlib`, `seaborn`
 
 ## Autores
-- **[Tu nombre]**
+- **CRISTIAN RAMIREZ RODRIGUEZ**
+- **MATEO LINCE GUTIERREZ**
+- **SAMUEL PATIÑO MUÑOZ**
